@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b41353e7-d006-4b33-9ba6-0834f353588d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/avg_prec_RFM_max_depth_n_est_250.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataCleanUp2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleanUp2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalModels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalModels.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shark_attack_tree.dot" beforeDir="false" afterPath="$PROJECT_DIR$/shark_attack_tree.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCleanUp1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCleanUp2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalModels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/final_models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avg_prec_RFM_max_depth_n_est_250.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_creation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model_test_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_creation_Version_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model_test_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_creation_cleaned_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model_test_3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +111,9 @@
       <option name="presentableId" value="Default" />
       <updated>1638165392386</updated>
       <workItem from="1638381602959" duration="17612000" />
+      <workItem from="1638417934673" duration="520000" />
+      <workItem from="1638418942740" duration="901000" />
+      <workItem from="1643164373480" duration="1126000" />
     </task>
     <servers />
   </component>
